@@ -3,6 +3,7 @@
 🎓 MSc Artificial Intelligence student at BTU Cottbus  <br/>
 💻 Passionate about coding and developing Machine Learning & Deep Learning projects<br/>
 🎮📹 I also create gaming and travel videos on [YouTube](https://www.youtube.com/@reallowspec3099)<br/>
+[Instagram](https://instagram.com/gokul__os?utm_source=qr&igsh=MXF1bjRxbDB5OHNmNQ==)
 
 
 # 💻 Tech Stack:
