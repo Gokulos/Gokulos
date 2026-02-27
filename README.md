@@ -2,7 +2,6 @@
 
 🎓 MSc Artificial Intelligence student at BTU Cottbus  <br/>
 💻 Passionate about coding and developing Machine Learning & Deep Learning projects<br/>
-🖇️My Instagram Profile [Instagram](https://instagram.com/gokul__os?utm_source=qr&igsh=MXF1bjRxbDB5OHNmNQ==)<br/>
 ℹ️My Linkedin Profile [Linkedin](https://www.linkedin.com/in/gokul-o-s/)<br/>
 
 
