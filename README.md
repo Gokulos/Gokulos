@@ -1,4 +1,4 @@
-## Hi there, I’m Gokul 👋
+## Gokul O S 👋
 
 🎓 MSc Artificial Intelligence student at BTU Cottbus  <br/>
 💻 Passionate about coding and developing Machine Learning & Deep Learning projects<br/>
