@@ -3,6 +3,7 @@
 🎓 MSc Artificial Intelligence student at BTU Cottbus  <br/>
 💻 Passionate about coding and developing Machine Learning & Deep Learning projects<br/>
 ℹ️My Linkedin Profile [Linkedin](https://www.linkedin.com/in/gokul-o-s/)<br/>
+🎤 Seminars & Presentations [MMA-DFER: MultiModal Adaptation of unimodal models for Dynamic Facial Expression Recognition in-the-wild](https://docs.google.com/presentation/d/1S22d7C6kO0CTFv85MefyLoE8go0Lqhc_Q9-J1TuRQY4/edit?usp=sharing)
 
 
 # 💻 Tech Stack:
